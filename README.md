@@ -4,7 +4,7 @@
 
 This repository provides an implementation of DP-Habitat, an extension of the Habitat simulation framework tailored for indoor embodied AI tasks with humanoid agents.
 
-📎 [Project Diagram / Media Link](https://github.com/user-attachments/assets/9693434a-edae-4b10-9224-acae015ade38)
+https://github.com/user-attachments/assets/9693434a-edae-4b10-9224-acae015ade38
 
 ---
 
